@@ -4,6 +4,11 @@ package abobrinha
 import "fmt"
 
 // Abóbora é uma função que não faz porcaria nenhuma.
-func abóbora() {
-	fmt.Println("Boa ida!")
+func Abóbora() {
+	fmt.Println("Estou com fome!")
+}
+
+// Cebola é outra função que não faz porcaria nenhuma.
+func Cebola() {
+	fmt.Println("Não gosto de cebola!")
 }
